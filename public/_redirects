@@ -1,1 +1,1 @@
-/api/* http://todo-demo-nodejs.us-east-2.elasticbeanstalk.com/api/tasks/:splat 200
+/api/*  http://todo-demo-nodejs.us-east-2.elasticbeanstalk.com/api/:splat  200
